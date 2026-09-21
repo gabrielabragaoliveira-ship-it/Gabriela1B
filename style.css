@@ -1,6 +1,11 @@
 :root{
       --cor-primaria: #183C63;
-
+      --cor-primaria: #3782d2;
+      --cor-fundo: #ffffff;
+      --cor-texto: #151428;
+      --cor-constraste: #f3eef7;
+      --cor-botao: #f9f9f9;
+    
       
 }
 
