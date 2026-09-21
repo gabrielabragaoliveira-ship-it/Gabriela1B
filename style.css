@@ -4,10 +4,15 @@
       --cor-fundo: #ffffff;
       --cor-texto: #151428;
       --cor-constraste: #f3eef7;
-      --cor-botao: #f9f9f9;
-    
-      
+      --cor-botao: #f9f9f9;      
 }
+.tema-escuro{
+      --cor-primaria: #A6CEFE;
+      --cor-primaria: #98caff;
+      --cor-fundo: #0f172a;
+      --cor-texto: #ffffff;
+      --cor-constraste: #1e293b;
+      --cor-botao: #151428;     
 
 
 body {
