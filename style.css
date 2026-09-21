@@ -5,14 +5,13 @@ body {
 
 
 
-header {
+header{
        background-color:#183C63:
        color: #FFFFF;
        text-align: center;
         margin: 0 auto;
-        padding:16px
-    
-    }
+        padding:16px   
+      }
 
         main {
         background-color:#FFFFF:
