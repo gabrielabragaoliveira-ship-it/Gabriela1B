@@ -12,7 +12,12 @@
       --cor-fundo: #0f172a;
       --cor-texto: #ffffff;
       --cor-constraste: #1e293b;
-      --cor-botao: #151428;     
+      --cor-botao: #151428;
+}
+
+.tema-escuro a {
+      color: var(--cor-secundaria);
+}
 
 
 body {
