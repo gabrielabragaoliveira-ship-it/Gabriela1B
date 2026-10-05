@@ -32,6 +32,11 @@
     
 }
 
+.tema-escuro. btn-tema-escuro{
+
+      background-color:var(--cor-secundaria);
+}
+
 .tema-escuro p {
        color: var(--cor-texto);
 }
